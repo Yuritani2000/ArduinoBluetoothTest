@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ArduinoTest</string>
+    <string name="current_pressure">現在の圧力</string>
+    <string name="connect">接続</string>
+    <string name="disconnect">切断</string>
+    <string name="send">書き込み</string>
+    <string name="status">ステータス</string>
+    <string name="sensor_1">センサ1</string>
+    <string name="sensor_2">センサ2</string>
+    <string name="search_device">デバイス検索</string>
+    <string name="dummy_text">DummyText</string>
+    <string name="device_name">デバイス名</string>
+</resources>
