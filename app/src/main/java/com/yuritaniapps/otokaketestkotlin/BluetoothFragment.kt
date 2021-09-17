@@ -58,7 +58,7 @@ class BluetoothFragment(private val defaultDeviceName: String) : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         super.onCreateView(inflater, container, savedInstanceState)
-        return inflater.inflate(R.layout.fragment_bluetooth, container, fallse)
+        return inflater.inflate(R.layout.fragment_bluetooth, container, false)
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
